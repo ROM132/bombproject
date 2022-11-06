@@ -1,5 +1,4 @@
 import random
-from picker import *
 
 
 class bomb_avoid:
